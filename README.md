@@ -1,6 +1,6 @@
 # algorithms-and-data-structures
 
-Autumn 2021
+Fall, 2021
 
 @ashot-gimishyan [Chair of Discrete Mathematics]
 
