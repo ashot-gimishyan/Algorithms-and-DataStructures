@@ -1,8 +1,6 @@
 # algorithms-and-data-structures
 
-Fall, 2021
-
-@ashot-gimishyan [Chair of Discrete Mathematics]
+Fall, 2021, @ashot-gimishyan
 
 MIPT — Moscow Institute of Physics and Technology
 
