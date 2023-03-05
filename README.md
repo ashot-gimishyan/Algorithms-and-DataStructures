@@ -1,7 +1,7 @@
-# algorithms-and-data-structures
+# Algorithms-And-Data-Structures
 
-Fall, 2021, @ashot-gimishyan
+@ashot-gimishyan
 
 MIPT — Moscow Institute of Physics and Technology
 
-Phystech School of Applied Mathematics and Informatics
+Phystech School of Applied Mathematics and Computer Science
