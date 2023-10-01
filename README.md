@@ -1,6 +1,6 @@
 # Algorithms-And-Data-Structures
 
-@ashot-gimishyan
+github.com/ashot-gimishyan
 
 MIPT — Moscow Institute of Physics and Technology
 
